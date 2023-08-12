@@ -15,6 +15,7 @@ API Endpoints: The API comprises the following endpoints:
  - /api/login: Handles user authentication.
  - /api/logout: Enables users to securely log out.
  - /api/user: Allows authenticated users to fetch their own user data.
+ - documentation postman : https://documenter.getpostman.com/view/26984754/2s9Xy5LAAs
 
 ### `Getting Started`
 Clone this repository to your local machine. Configure your development environment for Laravel.
