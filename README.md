@@ -13,7 +13,7 @@ Laravel Framework: The project is built on top of the Laravel PHP framework, kno
 API Endpoints: The API comprises the following endpoints:
  - /api/register: Facilitates user registration.
  - /api/login: Handles user authentication.
- - /api/logout: Enables users to securely log out.
+ - /api/logout: Enables users to securely log out
  - /api/user: Allows authenticated users to fetch their own user data.
  - documentation postman : https://documenter.getpostman.com/view/26984754/2s9Xy5LAAs
 
